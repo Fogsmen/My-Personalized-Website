@@ -508,7 +508,7 @@ a:hover {
 }
 
 .back{
-  background: #F5F5F5;
+  background: #464660;
   background: -webkit-linear-gradient(  #cedce7 0%);
   background: -o-linear-gradient(45deg,  #cedce7 0%);
   background: linear-gradient(45deg,  #cedce7 0%);
@@ -643,5 +643,5 @@ a:hover {
 }
 
 #navbar{
- background-color: #FCE4EC  !important;
+ background-color: #464660  !important;
 }
