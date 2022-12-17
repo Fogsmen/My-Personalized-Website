@@ -11,7 +11,7 @@ body {
   background-color: #f9f9f9;
 }
 .navbar-nav > .active { 
-  color: rgba(0, 0, 0, 0.9) !important;
+  color: #535353;
 
 }
 /* .navbar{
@@ -643,5 +643,5 @@ a:hover {
 }
 
 #navbar{
- background-color: #FCE4EC  !important;
+ background-color: #535353  !important;
 }
