@@ -8,7 +8,7 @@
 body {
   text-align: center;
   margin: 0;
-  background-color: #f9f9f9;
+  background-color: #464660;
 }
 .navbar-nav > .active { 
   color: rgba(0, 0, 0, 0.9) !important;
