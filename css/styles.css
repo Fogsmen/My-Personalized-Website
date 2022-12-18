@@ -8,7 +8,7 @@
 body {
   text-align: center;
   margin: 0;
-  background-color: #464660;
+  background-color: #d3d3d3;
 }
 .navbar-nav > .active { 
   color: rgba(0, 0, 0, 0.9) !important;
@@ -24,7 +24,7 @@ h1 {
   height: 6.875rem;
   font-size: 5.625rem;
   font-family: "Merienda", cursive;
-  color: #464660;
+  color: #d3d3d3;
 }
 
 h2 {
@@ -364,7 +364,7 @@ a:hover {
     font-weight: 100;
   }
   body {
-    background-color: #f9f9f9;
+    background-color: #d3d3d3;
   }
 
   .skillrowImage1 {
