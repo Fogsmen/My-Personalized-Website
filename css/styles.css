@@ -48,7 +48,7 @@ p {
 }
 
 hr {
-  border: dotted #f5c0c0 6px;
+  border: dotted #f9f9f9 6px;
   border-bottom: none;
   background-color: #f9f9f9;
   width: 5%;
@@ -72,7 +72,7 @@ a {
 }
 
 a:hover {
-  color: #f5c0c0;
+  color: #f9f9f9;
 }
 
 .subheading {
